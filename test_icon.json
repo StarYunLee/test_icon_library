@@ -7,12 +7,68 @@
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/antigravity-color.png"
     },
     {
+      "name": "bilibili-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/bilibili-color.png"
+    },
+    {
+      "name": "bytedance-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/bytedance-color.png"
+    },
+    {
+      "name": "claude-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/claude-color.png"
+    },
+    {
+      "name": "claudecode-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/claudecode-color.png"
+    },
+    {
+      "name": "codex",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/codex.png"
+    },
+    {
+      "name": "copilot-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/copilot-color.png"
+    },
+    {
+      "name": "gemini-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/gemini-color.png"
+    },
+    {
+      "name": "github",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/github.png"
+    },
+    {
+      "name": "huggingface",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/huggingface.png"
+    },
+    {
+      "name": "lobehub",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/lobehub.png"
+    },
+    {
+      "name": "microsoft-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/microsoft-color.png"
+    },
+    {
+      "name": "newapi",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/newapi.png"
+    },
+    {
+      "name": "nousresearch",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/nousresearch.png"
+    },
+    {
       "name": "Open-Minis-ios-512-official",
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/Open-Minis-ios-512-official.png"
     },
     {
       "name": "openai-light",
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/openai-light.png"
+    },
+    {
+      "name": "xai",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/xai.png"
     }
   ]
 }
