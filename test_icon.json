@@ -3,6 +3,14 @@
   "description": "Generated icon index",
   "icons": [
     {
+      "name": "anthropic-dark",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/anthropic-dark.png"
+    },
+    {
+      "name": "anthropic-light",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/anthropic-light.png"
+    },
+    {
       "name": "antigravity-color",
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/antigravity-color.png"
     },
@@ -17,6 +25,10 @@
     {
       "name": "claude-color",
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/claude-color.png"
+    },
+    {
+      "name": "claude-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/claude-color.svg"
     },
     {
       "name": "claudecode-color",
@@ -39,6 +51,18 @@
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/github.png"
     },
     {
+      "name": "grok-dark",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/grok-dark.png"
+    },
+    {
+      "name": "grok-light",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/grok-light.png"
+    },
+    {
+      "name": "grok",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/grok.svg"
+    },
+    {
       "name": "huggingface",
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/huggingface.png"
     },
@@ -59,8 +83,16 @@
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/Open-Minis-ios-512-official.png"
     },
     {
+      "name": "openai-dark",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/openai-dark.png"
+    },
+    {
       "name": "openai-light",
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/openai-light.png"
+    },
+    {
+      "name": "openai",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/openai.svg"
     },
     {
       "name": "xai",
