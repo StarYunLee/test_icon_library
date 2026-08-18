@@ -1,5 +1,18 @@
 {
   "name": "StarYunLee/test_icon_library",
   "description": "Generated icon index",
-  "icons": []
+  "icons": [
+    {
+      "name": "antigravity-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/antigravity-color.png"
+    },
+    {
+      "name": "Open-Minis-ios-512-official",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/Open-Minis-ios-512-official.png"
+    },
+    {
+      "name": "openai-light",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/openai-light.png"
+    }
+  ]
 }
