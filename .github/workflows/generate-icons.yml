@@ -1,0 +1,45 @@
+name: Generate icon index
+
+on:
+  push:
+    paths:
+      - "icon/**"
+      - ".github/generate_icons.py"
+      - ".github/workflows/generate-icons.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-icon-index-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate and validate icon index
+        run: |
+          python .github/generate_icons.py
+          python -m json.tool test_icon.json > /dev/null
+
+      - name: Commit generated index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "test_icon.json"
+          if git diff --cached --quiet; then
+            echo "Icon index is already up to date."
+            exit 0
+          fi
+          git commit -m "chore(icons): update generated index"
+          git push
