@@ -11,6 +11,10 @@
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/antigravity-color.png"
     },
     {
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/apple.png"
+    },
+    {
       "name": "bilibili-color",
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/bilibili-color.png"
     },
@@ -33,6 +37,10 @@
     {
       "name": "copilot-color",
       "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/copilot-color.png"
+    },
+    {
+      "name": "deepseek-color",
+      "url": "https://raw.githubusercontent.com/StarYunLee/test_icon_library/main/icon/deepseek-color.png"
     },
     {
       "name": "gemini-color",
